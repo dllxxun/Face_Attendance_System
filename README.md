@@ -4,7 +4,6 @@
 https://dllxxun.github.io/Face_Attendance_System/
 
 ✏️AWS Rekognition과 Lambda를 활용한 얼굴 인식 기반 출석 관리 시스템입니다.
-
 사용자가 웹사이트에 얼굴을 업로드하면 시스템이 자동으로 인식하여 출석을 처리하고, 실시간으로 결과를 알려주는 비접촉식 출석 관리 솔루션입니다.
 
 ### 📍프로젝트 목적
@@ -28,7 +27,6 @@ SMS 알림 서비스 (출석 완료 메시지 전송)
 데이터 다운로드 기능
 
 📍기술 스택
-
 - AWS Rekognition
 - AWS Lambda
 - AWS SNS
@@ -36,11 +34,9 @@ SMS 알림 서비스 (출석 완료 메시지 전송)
 - HTML/CSS/JavaScript
 
 📍시스템 구성도
-
 [시스템 구성도 이미지 추가 예정]
 
 📍설치 및 실행 방법
-
 저장소 클론
 필요한 AWS 서비스 설정
 웹 애플리케이션 실행
